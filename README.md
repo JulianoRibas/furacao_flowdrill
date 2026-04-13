@@ -40,5 +40,5 @@
 
 ## ✨ IMAGENS
 
-![photo](\photo.png)
-![photo1](\photo1.png)
+![photo](photo.png)
+![photo1](photo1.png)
